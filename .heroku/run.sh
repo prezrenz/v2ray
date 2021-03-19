@@ -1,3 +1,3 @@
 cd ../
 dir
-./run.sh
+chmod a+x run.sh
